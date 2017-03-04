@@ -18,7 +18,10 @@
 
   - Web性能优化 https://github.com/zgfang1993/blog/issues/5
   - 前端黑魔法 https://github.com/zgfang1993/blog/issues/7
-
+  
+> GitBook
+  - AngularJS学习笔记 https://zgfang1993.gitbooks.io/angularjs/content/angularserviceintroduce_md.html
+  
 > 厨房篇
 
   - 美食  https://github.com/zgfang1993/blog/issues/8 
