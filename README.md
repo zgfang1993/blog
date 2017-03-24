@@ -12,7 +12,7 @@
   - [红宝书整理--事件（从原生说到JQuery）](https://github.com/zgfang1993/blog/issues/14)  
   - [红宝书整理--引用类型](https://github.com/zgfang1993/blog/issues/11)  
   - [正则整理](https://github.com/zgfang1993/blog/issues/2)  
-  - [JavaScript面试题集合](https://github.com/zgfang1993/blog/issues/6) 会不断更新  
+  - [JavaScript面试题集合](https://github.com/zgfang1993/blog/issues/6) `更新ing...`
   - [变态题](https://github.com/zgfang1993/blog/issues/13)
   - [看懂 ==运算符的世界](https://github.com/zgfang1993/blog/issues/19)
   
