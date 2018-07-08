@@ -15,6 +15,8 @@
   - [JavaScript面试题集合](https://github.com/zgfang1993/blog/issues/6) `更新ing...`
   - [变态题](https://github.com/zgfang1993/blog/issues/13)
   - [看懂 ==运算符的世界](https://github.com/zgfang1993/blog/issues/19)
+  - [node爬虫来一份](https://github.com/zgfang1993/blog/issues/24)
+  - [react native 通信 原生模块开发（IOS）](https://github.com/zgfang1993/blog/issues/23)
   
 > CSS篇
 
