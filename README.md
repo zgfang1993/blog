@@ -31,6 +31,9 @@
 
   - [AngularJS学习笔记](https://zgfang1993.gitbooks.io/angularjs/content/angularserviceintroduce_md.html)
 
+> 其他
+
+- [nginx那么好，我想去看看](https://github.com/zgfang1993/blog/issues/27)
 
 > 厨房篇
 
