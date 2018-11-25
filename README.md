@@ -16,6 +16,7 @@
   - [变态题](https://github.com/zgfang1993/blog/issues/13)
   - [看懂 ==运算符的世界](https://github.com/zgfang1993/blog/issues/19)
   - [node爬虫来一份](https://github.com/zgfang1993/blog/issues/24)
+  - [React Native 学习整理](https://www.kancloud.cn/guif_zhang/rn/451961)
   - [react native 通信 原生模块开发（IOS）](https://github.com/zgfang1993/blog/issues/23)
   - [canvas实战](https://github.com/zgfang1993/blog/issues/25)
   - [koa2实战](https://github.com/zgfang1993/blog/issues/26)
@@ -37,6 +38,7 @@
 > 其他
 
 - [nginx那么好，我想去看看](https://github.com/zgfang1993/blog/issues/27)
+- [前端模块化](https://github.com/zgfang1993/blog/issues/29)
 
 > 厨房篇
 
