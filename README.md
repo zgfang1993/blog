@@ -21,6 +21,7 @@
   - [canvas实战](https://github.com/zgfang1993/blog/issues/25)
   - [koa2实战](https://github.com/zgfang1993/blog/issues/26)
   - [delegates源码解读](https://github.com/zgfang1993/blog/issues/28)
+  - [你可能需要Web Worker](https://github.com/zgfang1993/blog/issues/30)
   
 > CSS篇
 
