@@ -41,6 +41,7 @@
 
 - [nginx那么好，我想去看看](https://github.com/zgfang1993/blog/issues/27)
 - [前端模块化](https://github.com/zgfang1993/blog/issues/29)
+- [Linux常用命令之修改文件属性和权限](https://github.com/zgfang1993/blog/issues/31)
 
 > 厨房篇
 
